@@ -1,0 +1,5 @@
+Kantelemania was made by the team of
+- Marko (F1nde), programming and game design
+- Roni (Nash), programming and game design
+- Sami (httpsterio), sound design and game design
+- Henna (PootooBird), visual design and game design
